@@ -38,3 +38,5 @@ I use the "for statement" to create a loop to execute.
 ## Creating a repository
 I went into my GitHub account and created a new repository named "Code-Refactor-02Homework
 Then I uploaded all my files, such as readme, HTML, and CSS.
+## Deploy Link 
+https://geneviealba.github.io/Strong-Passwords-Fast/
